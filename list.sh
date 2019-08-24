@@ -2,35 +2,35 @@ echo " "
 echo "        Ok Kita Gaskan Mamang "| lolcat
 sleep 1
 
-python nuyul.py +6281292541464
+python nuyul.py +62
 sleep 1
-python nuyul.py +6288975636780
+python nuyul.py +62
 sleep 1
-python nuyul.py +6287876137316
+python nuyul.py +62
 sleep 1
-python nuyul.py +16306725814
+python nuyul.py +1
 sleep 1
-python nuyul.py +15672340397
+python nuyul.py +1
 sleep 1
-python nuyul.py +16303603789
+python nuyul.py +1
 sleep 1
-python nuyul.py +12674994445
+python nuyul.py +1
 sleep 1
-python nuyul.py +17753006268
+python nuyul.py +1
 sleep 1
-python nuyul.py +17752966499
+python nuyul.py +1
 sleep 1
-python nuyul.py +17752981034
+python nuyul.py +1
 sleep 1
-python nuyul.py +15152123304
+python nuyul.py +1
 sleep 1
-python nuyul.py +15156747363
+python nuyul.py +1
 sleep 1
-python nuyul.py +15038545304
+python nuyul.py +1
 sleep 1
-python nuyul.py +15059009851
+python nuyul.py +1
 sleep 1
-python nuyul.py +17078876389
+python nuyul.py +1
 sleep 1
 break
 
